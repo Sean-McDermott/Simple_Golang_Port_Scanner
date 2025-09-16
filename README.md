@@ -3,7 +3,7 @@ This program is not completely fitted with input sanitization so you may encount
 
 DISPLAY GUIDE:
 
-|| | UDP| = UDP CLOSED
+|| | UDP| = UDP CLOSED \n
 ||X| UDP| = UDP OPEN
 || | TCP| = TCP CLOSED
 ||X| TCP| = TCP OPEN
